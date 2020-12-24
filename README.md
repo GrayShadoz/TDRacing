@@ -11,3 +11,5 @@ https://youtu.be/j7EDbFik5pI
 
 Tutorial 2 - Load & Render a 2D Texture with PyGame
 https://youtu.be/oB5V-UNoyEo
+
+Tutorial 3 - Creating a Camera
