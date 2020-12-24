@@ -1,4 +1,4 @@
 # TDRacing
-In Tutorial 1 we set up the PyCharm IDE as well as install and setup PyGame!
-This is a basic game loop to start your game project.
+In Tutorial 3 we set up a simple camera to follow the car player sprite!
 I will be trying to make a top down racing game by moving most of my code from c#
+Hopefully it can be open world and generate trees/roads
